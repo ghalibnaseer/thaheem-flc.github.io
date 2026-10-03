@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://thaheem-flc.github.io/sitemap.xml
+Sitemap: https://ghalibnaseer.github.io/sitemap.xml
